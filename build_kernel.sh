@@ -13,7 +13,7 @@ mkdir outputd850
 mkdir outputd851
 mkdir outputd852
 mkdir outputd855
-mkdir outputf320
+mkdir outputf400
 mkdir outputls990
 mkdir outputvs985
 
